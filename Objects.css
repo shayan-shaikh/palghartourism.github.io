@@ -1,0 +1,29 @@
+img{
+  height: 70%;
+  width : 70%;
+}
+
+footer{
+  background-color: cyan;
+}
+
+#carouselExampleSlidesOnly{
+  height: 70%;
+  width : 50%;
+}
+
+body{
+  background-color: #dfe1ff;
+  background-image: url(https://i.pinimg.com/originals/b0/2a/e2/b02ae2523a2c395bab1d7828492338bd.jpg);
+}
+
+
+li{
+  font-size: 18px;
+  font-family: cursive;
+  color: #800080;
+}
+
+h1{
+  color: #66ccff;
+}
